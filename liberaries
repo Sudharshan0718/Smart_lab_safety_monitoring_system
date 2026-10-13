@@ -1,0 +1,5 @@
+LiquidCrystal I2C
+LiquidCrystal
+DHT sensor library for ESPx
+RTClib
+Blynk
